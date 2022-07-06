@@ -1,0 +1,17 @@
+{
+  "name": "1-basico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-Basico.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "http": "^0.0.1-security",
+    "lodash": "^4.17.21"
+  }
+}
